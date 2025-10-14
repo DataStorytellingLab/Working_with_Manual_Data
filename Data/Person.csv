@@ -1,0 +1,55 @@
+personID,lastName,firstName,gender,statusID,ethnicityID
+1,Delavall,,M,2,1
+2,Ten Houdt,Severyn,M,1,1
+3,DuBooys (Dubois),Lowies (Louys),M,1,1
+4,Blansjan,Matthias,M,1,1
+5,Fortune,Jan,M,3,1
+6,Lavall,,M,1,1
+7,Ackerman,Lodowyck,M,1,1
+8,DeGraef,Moses,M,1,1
+9,Fisher,William,M,1,1
+10,Haegen,Bruyn,M,1,1
+11,Claesen DeWitt,Tierk,M,1,1
+12,Osterhoudt,Jan,M,1,1
+13,Tynhoudt,Cronelis,M,1,1
+14,Lowersen,Jan,M,1,1
+15,Cool,Pieter,M,1,1
+16,Cool,Leendert,M,1,1
+17,Unnamed,,M,3,1
+18,Jansen,Dirck,M,1,1
+19,Grevenraedt,,M,1,4
+20,Martensen,Aerdt,M,1,1
+21,Addesen,Anthony,M,1,1
+22,Joshensen,Hendrick,M,1,1
+23,Wittikar,Eduward,M,1,1
+24,Wynkoop,Cornelis,M,1,5
+25,Kerstede,R,M,1,5
+26,Ten Broek,Wessel,M,1,5
+27,Borhans,Jan,M,1,5
+28,Albertsen,Gysbert,M,1,1
+29,Sluyter,Claes,M,1,1
+30,Steenwyck,Cronelis,M,1,1
+31,,Sakarowaen,M,6,2
+32,,Witsirani,M,6,2
+33,Beekman,Hendrick,M,1,1
+34,Meyer,W.D.,M,1,1
+35,De la Montagne,W.,M,5,1
+36,,Magota Moubis,M,6,2
+37,,Aris Japis (Papuni),M,6,2
+38,,Arvarota Minck,M,6,2
+39,,Pamire Wachin,M,6,2
+40,,Pamietararnick,M,6,2
+41,,Waskanarast,M,6,2
+42,,Spanakeock Kona Wekan,M,6,2
+43,,Ahowo Ras,M,6,2
+44,Harmonsen,Thoomas,M,1,1
+45,,Mingoo,M,7,3
+46,Van Wy,Hendrick,M,1,1
+47,,Anthony,M,7,3
+48,,Susanna,F,7,3
+49,Maures,Cornelis,M,1,1
+50,Van Imbrogh,Gysbert,M,1,1
+51,Sybrands,Altjen,F,1,1
+52,Roeloofsen,Mathys,M,1,1
+53,Jochemsen,Hendrick,M,1,1
+54,Aerts,Annetjen,F,1,1

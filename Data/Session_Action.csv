@@ -1,0 +1,23 @@
+actionID,sessionDetailsID,description,amount
+1,1,Fine,6 Sch. Wheat per defendant
+2,2,Fine,80 Gldrs.
+3,3,Fine,13 Sch. Wheat
+4,4,Fine,8 Gldrs.
+5,5,Fine,"315 Gldrs, 10 St., plus costs"
+6,6,Fine,"176 Gldrs., plus costs"
+7,7,Fine,"81 Gldrs., plus costs"
+8,8,Fine,"24 Sch. Wheat, plus costs"
+9,9,Fine,"20 Sch. Wheat, plus costs"
+10,10,Fine,"28 Sch. Wheat, plus costs"
+11,11,Attempt to resolve payment dispute,None
+12,12,Tabled until next session,None
+13,13,Fine,25 Gldrs.
+14,14,Change of jurisdiction,None
+15,15,Attempt to resolve a right of way dispute,None
+16,16,Court orders payment of fines,Unspecified
+17,17,Recording of officials present,None
+18,18,Transfer of land from Indigenous people to settlers,Unspecified
+19,19,Sale of a Black enslaved man,1000 Gldrs.
+20,20,Sale of a Black enslaved woman and a Black enslaved man,800 Gldrs.
+21,21,Complainant demands vindication of his honor,None
+22,22,"Complainant demands vindication of his honor, Respondent demands vindication of her honor",None
