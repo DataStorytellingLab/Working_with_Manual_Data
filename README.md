@@ -42,9 +42,9 @@ working with the types of data included in this workshop has some significant dr
 
 ### Entity Relationship Basics
 An entity is a means of modeling data. In an Entity Relationship (ER) approach, entities are sub-models that can be linked together to form more complex relationships. In general, ERs need to have specific characteristics, which are then ‘normalized’ to increase efficiency and effectiveness. When working with ER data, it is fairly common to encounter it in what is called “third normal form.” To get there, the data must:
-	1. Eliminate repeating groups
-	2. Eliminate redundant data
-	3. Eliminate columns not dependent on key
+1. Eliminate repeating groups
+2. Eliminate redundant data
+3. Eliminate columns not dependent on key
 
 At each step, it is important to reduce the model to only what is necessary to represent the data needed. 
 
