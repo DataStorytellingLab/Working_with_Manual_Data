@@ -107,7 +107,6 @@ Each of these entities will be represented on a spreadsheet. To increase portabi
 
 ### Required Files
 To follow this workshop, the following files are needed (available in the Data folder in the repository):
-* Ulster_Colonial_Records_Small.txt
 * Person.csv
 * Status.csv
 * Ethnicity.csv
@@ -118,7 +117,11 @@ To follow this workshop, the following files are needed (available in the Data f
 * Person_to_Session.csv
 * Participation_Type.csv
 
-In addition, it will be necessary to access the following Python scripts (available in the Scripts folder in the repository):
+In addition, the following files will be helpful for understanding the base data and data modeling choices used for the database (available in the Resources folder in the repository):
+* Ulster_Colonial_Records_Small.rtf
+* Ulster_Colonial_Flat.csv
+
+Further, it will be necessary to access the following Python scripts (available in the Scripts folder in the repository):
 * Initial_DB_Creation.ipynb
 * Simple_DB_Query.ipynb
 * Colonist_Simple_Viz.ipynb
