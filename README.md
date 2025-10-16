@@ -8,16 +8,15 @@ The records in question are presented in a manner that makes automated data inge
 
 ## Benefits of Working with Manual Data: 
 working with the types of data included in this workshop has some benefits over working with pre-structured, pre-sorted, prepared data. These include: 
-	• having granular control over the data model and tailoring it to both the data and a your 	specific research questions 
-	• a greater appreciation for what is included in, and excluded from, the data as well as the 	representation of it
-	•  a slow, deliberative process of reading and thinking about every single line of the data and the ability to adjust the data model over time as needed.
+* having granular control over the data model and tailoring it to both the data and a your 	specific research questions 
+* a greater appreciation for what is included in, and excluded from, the data as well as the 	representation of it
+* a slow, deliberative process of reading and thinking about every single line of the data and the ability to adjust the data model over time as needed.
 
 ## Drawbacks of Working with Manual Data: 
 working with the types of data included in this workshop has some significant drawbacks compared to working with pre-structured, pre-sorted, prepared data. These include: 
-	• slower time for ingesting data necessitated by a need for extensive pre-planning
-	• extended time required for iterating over potential data models
-	• need for subject matter expertise, or access to appropriate subject matter experts, to make informed decisions about data modeling, inclusions, exclusions, categorizations, 	and context
-	• extended time to input data into the model when compared with prepared data sets as well as the need for close supervision to handle judgment calls, which are often numerous
+* slower time for ingesting data necessitated by a need for extensive pre-planningextended time required for iterating over potential data models
+* need for subject matter expertise, or access to appropriate subject matter experts, to make informed decisions about data modeling, inclusions, exclusions, categorizations, 	and context
+* extended time to input data into the model when compared with prepared data sets as well as the need for close supervision to handle judgment calls, which are often numerous
 
 ### Basic Workflow: 
 * Initial scan of the original data to understand the structure of each entry. 
