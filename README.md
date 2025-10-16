@@ -14,7 +14,8 @@ working with the types of data included in this workshop has some benefits over 
 
 ## Drawbacks of Working with Manual Data: 
 working with the types of data included in this workshop has some significant drawbacks compared to working with pre-structured, pre-sorted, prepared data. These include: 
-* slower time for ingesting data necessitated by a need for extensive pre-planningextended time required for iterating over potential data models
+* slower time for ingesting data necessitated by a need for extensive pre-planning
+* extended time required for iterating over potential data models
 * need for subject matter expertise, or access to appropriate subject matter experts, to make informed decisions about data modeling, inclusions, exclusions, categorizations, 	and context
 * extended time to input data into the model when compared with prepared data sets as well as the need for close supervision to handle judgment calls, which are often numerous
 
