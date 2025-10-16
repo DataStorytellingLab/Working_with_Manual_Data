@@ -49,14 +49,14 @@ An entity is a means of modeling data. In an Entity Relationship (ER) approach, 
 At each step, it is important to reduce the model to only what is necessary to represent the data needed. 
 
 In general, an entity will have:
-	• A unique, or primary, key that identifies a discrete row of data
-	• A limited number of features, or fields, representing the abstractions needed to model 	the data stored in the entity
-	•  A foreign key, which references the primary key of another entity and makes it possible 	to associate data of two or more entities (hence the relationship part of ER).
+* A unique, or primary, key that identifies a discrete row of data
+* A limited number of features, or fields, representing the abstractions needed to model 	the data stored in the entity
+* A foreign key, which references the primary key of another entity and makes it possible 	to associate data of two or more entities (hence the relationship part of ER).
 
 The relationships in an ER environment come in a few types:
-	• One-to-one—for any one X, there is only one Y
-	• One-to-many—a specific X has many possible Ys or many Y’s can be associated with a 	particular X
-	• Many-to-Many—there are many Xs that are associable with many Ys or many Y’s can 	be associated with many X’s. NOTE: this is 	theoretically possible when modeling data 	but in practice MtM relationships must be decomposed to two or more OtM relationships 	so that a database engine can handle them without conflict.
+* One-to-one—for any one X, there is only one Y
+* One-to-many—a specific X has many possible Ys or many Y’s can be associated with a 	particular X
+* Many-to-Many—there are many Xs that are associable with many Ys or many Y’s can 	be associated with many X’s. NOTE: this is 	theoretically possible when modeling data 	but in practice MtM relationships must be decomposed to two or more OtM relationships 	so that a database engine can handle them without conflict.
 
 The type, and directionality, of relationships must be carefully planned and managed. The specifics of how to design and implement a full, working database are far outside the scope of this workshop. These sources should provide more detailed information:
 
